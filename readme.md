@@ -22,6 +22,7 @@ npm run dev
 #Run in prod mode
 npm start
 ```
+For more information on how to use this API visit [here](https://documenter.getpostman.com/view/11195241/TzmBBtPZ)
 
 - Version : 1.0.0
 - License : MIT
